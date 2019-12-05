@@ -1,4 +1,9 @@
-// Morse-Project-2B.cpp : This file contains the 'main' function. Program execution begins and ends there.
+/* Morse-Project-2B.cpp: 
+Authors: Cole Cerv, Brett Barnow, Nathan Brown, Alex Norris
+Class: Comp-Sci 303
+Description: Create a morse code tree to decode morse code.
+Then, create a data structure (We used a simple switch case) to encode a message.
+*/
 
 #include "pch.h"
 #include <iostream>
